@@ -18,4 +18,7 @@ public static void main(String[] args) {
  * 5th - again goto loop, increment i by 2 check if it is less than 20 go inside and print 6
  * 6th - And lly execute it till i<=20, once i>20 then exit the loop 
  * And it will print 2's table
+
+
+This is only for test
 */
