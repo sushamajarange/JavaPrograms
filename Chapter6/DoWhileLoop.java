@@ -6,11 +6,12 @@ public class DoWhileLoop {
 		do		// while loop must have boolean result
 		{
 			System.out.println("In loop ");
-			x =10;
+			x ++;
+			System.exit(0);
 					
-		}while(false)
+		}while(x==9);
 		
-		System.out.println("Past the loop ");
+		System.out.println("Past the loop ");	// It'll  not print b'coz the exit method exits the main 
 	}
 
 }
