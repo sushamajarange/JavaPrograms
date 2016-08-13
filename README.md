@@ -131,5 +131,19 @@ To https://github.com/sushamajarange/JavaPrograms
 C7. Now, from web browser goto https://github.com/sushamajarange/JavaPrograms
 You'll see your ExampleProgram folder and ExampleProgram.Java File, similar you can do for Program1 folder and Program1.java program.
 
-
+git add filename
+git commit
+git push
 Enjoy!! :)
+
+
+-------------------------------------------------------------------
+Now, you want to get latest code from repository githum.com server to your local directory.
+
+git pull
+
+---------------------------------------------------------------------
+to rename file or folder on git use:
+git mv OldFileName NewFileName
+
+
